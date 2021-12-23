@@ -1,2 +1,2 @@
-# python-program-to-convert-dollars-to-rupees
+# Python Program To Convert Dollars To Rupees
 Write a python program which accepts a string which has words where "$" or "dollar" is mentioned to represent amounts in dollar. Your program should restate the statement where the dollar or $ is replaced by Rs, and the amounts converted to Indian Rupees. Assume that 1 US $ is equivalent to 75 Indian Rupees. Use regex to validate the authenticity of the input statement, for the presence of valid numerical amount followed by dollar or $. There can be multiple instances of "$" or "dollar" in a statement.
